@@ -1,0 +1,12 @@
+# Archivos de objetos
+*.o
+
+#Archivos especificos
+cmc
+asin.h
+
+asin.c
+alex.c
+
+# Archivos de configuración de Make
+Makefile~
