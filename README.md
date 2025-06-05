@@ -1,0 +1,1 @@
+This is just a compiler from a language called "C--" (like C but with much less specifications). This language is not very powerfull and in order to make a program a lot of rules must be followed. Also we need a virtual machine that runs the intermediate code
